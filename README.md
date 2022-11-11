@@ -1,48 +1,30 @@
-![Screenshot_1668172344](https://user-images.githubusercontent.com/75967993/201351906-c867a13f-3290-4f3f-8413-926b26e50363.png)
-![Screenshot_1668172355](https://user-images.githubusercontent.com/75967993/201351909-66954258-36c6-4221-84e9-134ebb187af6.png)
-![Screenshot_1668172379](https://user-images.githubusercontent.com/75967993/201351917-bc4906a0-0b48-4a84-b9c9-c852309a6c81.png)
+<h1 align="center">
+  <img width="200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Uber_Eats_2020_logo.svg/1280px-Uber_Eats_2020_logo.svg.png" alt="UberEats Logo" />
+  <br />
+</h1>
 
+<h3 align="center">
+   Uber  Eats Clone created with React Native</a>
+</h3>
 
-# My Universal React Project
+<div style="display: inline_block" align="center"><br>
+  <img width="300px" height="600px" style="object-fit: contain" src="https://user-images.githubusercontent.com/75967993/201351909-66954258-36c6-4221-84e9-134ebb187af6.png" alt="homescreen"/>
+  <img width="300px" height="600px"" style="object-fit: contain" src="https://user-images.githubusercontent.com/75967993/201351917-bc4906a0-0b48-4a84-b9c9-c852309a6c81.png" alt="restaurantscreen" />
+  <img width="300px" height="600px" style="object-fit: contain" src="https://user-images.githubusercontent.com/75967993/201351906-c867a13f-3290-4f3f-8413-926b26e50363.png" alt="checkoutscreen" />
+</div>
 
-<p>
-  <!-- iOS -->
-  <a href="https://itunes.apple.com/app/apple-store/id982107779">
-    <img alt="Supports Expo iOS" longdesc="Supports Expo iOS" src="https://img.shields.io/badge/iOS-4630EB.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff" />
-  </a>
-  <!-- Android -->
-  <a href="https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=blankexample">
-    <img alt="Supports Expo Android" longdesc="Supports Expo Android" src="https://img.shields.io/badge/Android-4630EB.svg?style=flat-square&logo=ANDROID&labelColor=A4C639&logoColor=fff" />
-  </a>
-  <!-- Web -->
-  <a href="https://docs.expo.dev/workflow/web/">
-    <img alt="Supports Expo Web" longdesc="Supports Expo Web" src="https://img.shields.io/badge/web-4630EB.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff" />
-  </a>
-</p>
+<div align="center">
+  <a href="#"><img src="https://qr.expo.dev/expo-go?owner=flexnerr&slug=uber&releaseChannel=default&host=exp.host" alt="qr" width="200" height="200" /></a>
+  <a href="#"><img src="https://user-images.githubusercontent.com/99184393/182557606-b36f2540-1260-42bf-b547-ed5832e3615e.png" alt="qr" width="200" height="200" /></a>
+</div>
 
-## 🚀 How to use
+---
 
-- Install packages with `yarn` or `npm install`.
-  - If you have native iOS code run `npx pod-install`
-- Run `yarn start` or `npm run start` to start the bundler.
-- Open the project in a React runtime to try it:
-  - iOS: [Client iOS](https://itunes.apple.com/app/apple-store/id982107779)
-  - Android: [Client Android](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=blankexample)
-  - Web: Any web browser
+## Technologies
 
-## Running/Modifying Native Code
-
-You can generate native iOS and Android projects from your Expo config file (**app.json**/ **app.config.js**) by runnning `npx expo prebuild`. These native projects can then be compiled and run via XCode and Android Studio.
-
-> 💡 Learn more about [native code in Expo](https://docs.expo.dev/workflow/customizing/)
-
-## Publishing
-
-- Deploy the native app to the App store and Play store using this guide: [Deployment](https://docs.expo.dev/distribution/app-stores/).
-- Deploy the website using this guide: [Web deployment](https://docs.expo.dev/distribution/publishing-websites/).
-
-## 📝 Notes
-
-- Learn more about [Universal React](https://docs.expo.dev/).
-- See what API and components are [available in the React runtimes](https://docs.expo.dev/versions/latest/).
-- Find out more about developing apps and websites: [Guides](https://docs.expo.dev/guides/).
+- React Native
+- Expo
+- Redux
+- YELP API
+- Firebase
+- Google API
