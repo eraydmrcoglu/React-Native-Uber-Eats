@@ -9,7 +9,7 @@ export const localRestaurants = [
     image_url:
       "http://cdn.cnn.com/cnnnext/dam/assets/190708174158-la-reserve-a-la-plage-01.jpg",
     categories: [{ title: "Cafe" }, { title: "Bar" }],
-    price: "$$$",
+    price: "$",
     reviews: 1244,
     rating: 4.5,
   },
@@ -18,7 +18,7 @@ export const localRestaurants = [
     image_url:
       "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmVzdGF1cmFudCUyMGludGVyaW9yfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
     categories: [{ title: "Thai" }, { title: "Comfort Food" }],
-    price: "$$",
+    price: "$",
     reviews: 1244,
     rating: 3.7,
   },
